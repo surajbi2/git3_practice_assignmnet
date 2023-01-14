@@ -11,7 +11,6 @@ for(let i=1; i<=x; i++){
    console.log("Not Prime");
 }
 }
+  
 
-
-
-prime(5);
+prime(5)
