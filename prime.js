@@ -13,5 +13,6 @@ for(let i=1; i<=x; i++){
 }
 
 
-
-prime(5);
+for(let i=0;i<=20;i++){
+prime(i);
+}
